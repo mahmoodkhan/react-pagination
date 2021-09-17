@@ -12,3 +12,4 @@ A React component that renders the Pagination component and supports previous an
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-1zaeqk)
 
+[tutorial](https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/)
